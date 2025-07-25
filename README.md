@@ -90,7 +90,7 @@ La majorité de la configuration se fait via notre **panel web**, accessible apr
 
 ## 😊 Notre Site
 
-> https//sylynx.fr
+> - [SyLynx.fr](https://SyLynx.fr)
 
 ## 📞 Support & Communauté
 
