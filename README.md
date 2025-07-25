@@ -1,4 +1,4 @@
-# 🐺 SyLynx AI
+# 🤖 SyLynx AI
 ### Le Cerveau de Votre Communauté Discord
 
 **Un panel web surpuissant et un bot Discord intelligent pour une gestion de communauté inégalée.**
@@ -90,7 +90,7 @@ La majorité de la configuration se fait via notre **panel web**, accessible apr
 
 ## 😊 Notre Site
 
-> - https//sylynx.fr
+> https//sylynx.fr
 
 ## 📞 Support & Communauté
 
