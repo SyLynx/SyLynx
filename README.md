@@ -88,11 +88,25 @@ Une fois le bot sur votre serveur, voici quelques commandes pour bien démarrer 
 
 La majorité de la configuration se fait via notre **panel web**, accessible après vous être connecté avec Discord.
 
+## 😊 Notre Site
+
+https://sylynx.fr/
+
 ## 📞 Support & Communauté
 
 Un problème ? Une question ? Une suggestion ? Rejoignez notre serveur Discord officiel !
 
 ### ➡️ [Rejoindre le serveur de Support](https://discord.gg/ArzdnYVAfS)
+
+
+# __**SyLynx sortira en pré-bêta à des testeurs de confiance le 30 Juillet 2025.**__
+
+Si vous voulez participer au programme dès sa publication, assurez vous de :
+
+- Avoir au minimum 16 ans
+- Résider en Union Europeenne
+- Avoir une connaissance accrue de Discord et de ses mécanismes. (5 Années d'experience minimale requise.)
+- Être créatif
 
 ---
 
